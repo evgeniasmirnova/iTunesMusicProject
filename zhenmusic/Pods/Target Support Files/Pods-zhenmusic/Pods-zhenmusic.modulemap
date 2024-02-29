@@ -1,0 +1,6 @@
+module Pods_zhenmusic {
+  umbrella header "Pods-zhenmusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
