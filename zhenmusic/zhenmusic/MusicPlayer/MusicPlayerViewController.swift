@@ -105,7 +105,7 @@ class MusicPlayerViewController: UIViewController, ViewProtocol {
     }
     
     
-    // MARK: - Override methods
+    // MARK: - Override
     
     override func viewDidLoad() {
         super.viewDidLoad()
