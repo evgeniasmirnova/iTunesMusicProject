@@ -9,6 +9,7 @@
 
 ## Технологии
 - UIKit
+- AVFoundation
 - Alamofire
 - SnapKit
 - KingFisher
